@@ -7,8 +7,9 @@ Maven 私有仓库
 ```xml
 <repositories>
     <repository>
-        <id>mvnrepository-mvn-repo</id>
-        <url>https://raw.githubusercontent.com/qhwr/mvnrepository/master/</url>
+        <id>github-repository</id>
+        <name>Github Maven Repository</name>
+        <url>https://raw.githubusercontent.com/qhwr/mvnrepository/master</url>
     </repository>
 </repositories>
 ```
