@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b42d8e92-45a3-4a73-8c8e-a43e607f2ba8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-fuiou/1.0.0/qhwr-fuiou-1.0.0.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-fuiou/1.0.0/qhwr-fuiou-1.0.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-fuiou/1.0.0/qhwr-fuiou-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-fuiou/1.0.0/qhwr-fuiou-1.0.0.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-fuiou/1.0.0/qhwr-fuiou-1.0.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-fuiou/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-fuiou/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-fuiou/maven-metadata.xml.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-yeepay/1.0.0/qhwr-yeepay-1.0.0.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-yeepay/1.0.0/qhwr-yeepay-1.0.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-yeepay/1.0.0/qhwr-yeepay-1.0.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-yeepay/1.0.0/qhwr-yeepay-1.0.0.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-yeepay/1.0.0/qhwr-yeepay-1.0.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-yeepay/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-yeepay/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/qhwr/third/qhwr-yeepay/maven-metadata.xml.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
-    </list>
+    <list default="true" id="b42d8e92-45a3-4a73-8c8e-a43e607f2ba8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,26 +15,7 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/deploy.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -138,16 +101,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560846937916</updated>
-      <workItem from="1560846940375" duration="2338000" />
+      <workItem from="1560846940375" duration="2585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2338000" />
+    <option name="totallyTimeSpent" value="2585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
