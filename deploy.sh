@@ -5,10 +5,10 @@
 mvn deploy:deploy-file \
 --settings="${MVN_HOME}/conf"/settings.xml \
 -DgroupId=com.qhwr.third \
--DartifactId=qhwr-yeepay \
+-DartifactId=qhwr-fuiou \
 -Dversion=1.0.0 \
 -Dpackaging=jar \
 -Dmaven.test.skip \
 -DrepositoryId=releases \
--Dfile=C:/Users/fank2/Desktop/qhwr-yeepay-1.0.0.jar \
--Durl=file:e:/workspaces/idea/qhwrong/mvnrepository/
+-Dfile=C:/Users/fank2/Desktop/qhwr-fuiou-1.0.0.jar \
+-Durl=file:e:/workspaces/idea/qhwrong/mvnrepository/repository
